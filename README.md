@@ -8,6 +8,9 @@ Prática com itens de compra de um supermercado.
 Seu principal objetivo é encontrar padrões relevantes nos dados. 
 Padrões que possam ser usados para definir a estratégia do negócio ou para identificar um comportamento pouco usual.
 
+## Versões:
+AssociationRules - versão com comentários sobre as bibliotecas e métodos usados. Aconselhado para estudantes.<br>
+AssociationRules_ClearVersion - versão só com a aplicação.
 
 ## Nesta prática utilizamos:
 TransactionEncoder
